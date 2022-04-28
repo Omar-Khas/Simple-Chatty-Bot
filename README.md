@@ -1,4 +1,4 @@
-Hello this is a project I've done with the help of Hyperskill course (https://hyperskill.org/). 
+Hello, this is a project I've done with the help of Hyperskill course (https://hyperskill.org/). 
 This is a simple chat bot I've developed using Python in accordance with PEP8.
 Throughout the course I've learnt how to manipulate conditional statements, loops, and lists and functions to create an interactive bot. Here's are some of the topics I've learnt building this project:
 
