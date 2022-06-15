@@ -33,20 +33,20 @@ def count():
 
 def test(user_answer):
     print("Let's test your programming knowledge.")
-   
+
     answers =["1. To repeat a statement multiple times.",
     "2. To decompose a program into several small subroutines.",
     "3. To determine the execution time of a program.",
     "4. To interrupt the execution of a program."]
-    
+
     correct_answer = 2
-    
+
     for i in range(len(answers)):
         print(answers[i])
         i += 1
-        
+
     i = 0
-    
+
     while i == 0:       
         if user_answer == correct_answer:
             print('Completed, have a nice day!')
